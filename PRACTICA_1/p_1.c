@@ -26,7 +26,7 @@ int main()
     printf("estatura en metros: ");
     scanf("%f", &estatura); /*lee la estatura del usuario*/
     nacimiento=2023-edad;
-    printf("Nombre: %s\nEdad: %d anios\n anio de nacimiento: %d\n Estatura: %0.2f metros\n", nombre, edad, nacimiento, estatura); /*imprime todos los datos ingresados*/
+    printf("\nNombre: %s\nEdad: %d anios\n anio de nacimiento: %d\n Estatura: %0.2f metros\n", nombre, edad, nacimiento, estatura); /*imprime todos los datos ingresados*/
     return 0;
 }
 
