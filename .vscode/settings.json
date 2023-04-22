@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "P1.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "recursion.h": "c",
+        "funcion.h": "c"
     }
 }

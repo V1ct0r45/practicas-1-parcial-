@@ -79,7 +79,7 @@ int main()
             printf("%5d", resta[i][l]);
         }
         printf("\t\t\t\t ");
-        for (int m = 0; m < MAX; m++) // IMRPIME LA multiplicacion
+        for (int m = 0; m < MAX; m++) // IMRPIME LA suma
         {
             printf("%5d", suma[i][m]);
         }
