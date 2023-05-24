@@ -3,6 +3,7 @@
         "P1.C": "cpp",
         "stdio.h": "c",
         "recursion.h": "c",
-        "funcion.h": "c"
+        "funcion.h": "c",
+        "ctype.h": "c"
     }
 }
