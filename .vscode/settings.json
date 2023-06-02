@@ -4,6 +4,7 @@
         "stdio.h": "c",
         "recursion.h": "c",
         "funcion.h": "c",
-        "ctype.h": "c"
+        "ctype.h": "c",
+        "random": "c"
     }
 }
