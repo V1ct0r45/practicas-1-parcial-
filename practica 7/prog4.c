@@ -2,7 +2,7 @@
  * @file prog4.c
  * @author Ramirez Aguilar Victor Saul (victors.ramireza@gmail.com)
  * @boleta 2023640349
- * @brief 
+ * @brief programa que solicita al usuario n numeros y devuelve el mas grande
  * @version 0.1
  * @date 2023-05-22
  * 

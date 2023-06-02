@@ -2,7 +2,7 @@
  * @file prog3.c
  * @author Ramirez Aguilar Victor Saul (victors.ramireza@gmail.com)
  * @boleta 2023640349
- * @brief 
+ * @brief programa que imprime un arreglo de tamaño n
  * @version 0.1
  * @date 2023-05-22
  * 

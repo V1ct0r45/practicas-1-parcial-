@@ -2,7 +2,7 @@
  * @file prog1.c
  * @author Ramirez Aguilar Victor Saul (victors.ramireza@gmail.com)
  * @boleta 2023640349
- * @brief 
+ * @brief  Programa que suma dosnumeros usando punteros
  * @version 0.1
  * @date 2023-05-22
  * 

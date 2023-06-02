@@ -2,7 +2,7 @@
  * @file prog2.c
  * @author Ramirez Aguilar Victor Saul (victors.ramireza@gmail.com)
  * @boleta 2023640349
- * @brief 
+ * @brief programa que suma dos numeros usando parametros por referencia
  * @version 0.1
  * @date 2023-05-22
  * 
@@ -12,9 +12,14 @@
 
 #include <stdio.h>
 
-float sumarNumeros(float *a, float *b) {
-    return *a + *b;
-}
+/**
+ * @brief suma de 2 numeros
+ * 
+ * @param a numero 1
+ * @param b numero 2
+ * @return float 
+ */
+float sumarNumeros(float *a, float *b);
 
 int main() {
     float num1, num2, suma;
@@ -30,4 +35,8 @@ int main() {
     printf("La suma de %0.2f y %0.2f es: %0.2f\n", num1, num2, suma);
 
     return 0;
+}
+
+float sumarNumeros(float *a, float *b) {
+    return *a + *b;
 }

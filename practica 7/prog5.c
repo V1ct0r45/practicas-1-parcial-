@@ -2,7 +2,7 @@
  * @file prog5.c
  * @author Ramirez Aguilar Victor Saul (victors.ramireza@gmail.com)
  * @boleta 2023640349
- * @brief 
+ * @brief programa que cuenta las vocales y consonantes de una cadena de caracteres
  * @version 0.1
  * @date 2023-05-23
  * 
